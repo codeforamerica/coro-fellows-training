@@ -8,11 +8,13 @@ Read Github for Government thing from Ben Balter
 
 Review an open law and think about ways you'd like to change it
 
-## What is Code for America (5 min + Intro)
+## What is Code for America (10-15 min + Intro)
 
 (description, outline, etc.)
 
 Code for America believes in a government for the people, by the people, in the 21st century. 
+
+Some fellows talk about what they've been working on
 
 We accomplish this through our community organizing, our fellowship program, our government training program "Peer Network", and our civic startup Accelerator. 
 
@@ -35,3 +37,5 @@ How Does Version Control support Iterative Development and Design Thinking
 Look at a codebase and what type of contributions people would make to it
 
 Look at an open law and make contributions to it
+
+Working history of how the projects have worked
