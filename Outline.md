@@ -4,7 +4,6 @@
 
 * Create a [GitHub account](http://github.com/join)
 * Read [Github for Government](https://github.com/blog/1657-introducing-government-github-com)
-* Review an open law and think about ways you'd like to change it
 
 ## What is Code for America (10-15 min + Intro)
 
