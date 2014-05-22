@@ -35,13 +35,9 @@ A way to approach problems in a way that enables clear focus, creativity, and co
 - Show prototypes to the people it should enable or that will use the service (get their feedback)
 - Fail early
 
-# Test
+## Test / Iterate
 
-(more to come, blend with iterative workflow)
-
-# Iterative Workflow
-
-- Work in Small Pieces
+- Deliver in small parts (i.e. work incrementally)
 - Continually check-in / make sure assumption and decisions at beginning are still true
 - Work together / cross discipline
 
