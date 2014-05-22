@@ -25,9 +25,10 @@
 
 #### Projects
 
-- [Promptly](http://www.promptly.io/)
+- [Honolulu Answers](http://answers.honolulu.gov/)
 - [Discover BPS](http://www.discoverbps.org/)
-- [Textizen](https://www.textizen.com/)
+- [Street Mix](http://streetmix.net/)
+- [Transit Mix](http://www.transitmix.net/)
 
 ### Brigade
 
