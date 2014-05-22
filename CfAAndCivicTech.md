@@ -28,4 +28,6 @@
 
 # What is Civic Tech?
 
+![Civic Tech Venn Diagram](images/civic_tech_venn_diagram.png)
+
 [Venn Diagram from Knight Foundation, page 6](http://www.knightfoundation.org/media/uploads/publication_pdfs/knight-civic-tech.pdf)
