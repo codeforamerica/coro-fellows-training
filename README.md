@@ -14,8 +14,8 @@ This a training delivered by Code for America (CfA) to Coro Fellows, introducing
 - Create a [GitHub account](http://github.com/join)
 - Read [Github for Government](https://github.com/blog/1657-introducing-government-github-com)
 
-## [Civic Tech and Code for America](CfAAndCivicTech.md)  (10-15 min + Intro)
+## [Civic Tech and Code for America](CfAAndCivicTech.md) (10-15 min + Intro)
 
 ## [Design Thinking, Iteration, and Revision Control](DesignThinkingAndIteration.md) (15 minutes)
 
-## [Collaborative Creation and Revision Control Activity](OpenLawActivity.md) (30 minutes)
+## [Collaborative Creation and Revision Control Activity](CollaborationAndRevisionControl.md) (30 minutes)
