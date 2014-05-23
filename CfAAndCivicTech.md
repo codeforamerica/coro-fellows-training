@@ -6,7 +6,6 @@
 
 [Venn Diagram from Knight Foundation, page 6](http://www.knightfoundation.org/media/uploads/publication_pdfs/knight-civic-tech.pdf)
 
-
 # What does Code for America (CfA) do?
 
 ## Bring together **local goverments** and **technologists** to make **better cities for everyone**
@@ -25,15 +24,16 @@
 
 #### Projects
 
-- [Promptly](http://www.promptly.io/)
+- [Honolulu Answers](http://answers.honolulu.gov/)
 - [Discover BPS](http://www.discoverbps.org/)
-- [Textizen](https://www.textizen.com/)
+- [Transit Mix](http://www.transitmix.net/)
+- [Street Mix](http://streetmix.net/)
 
 ### Brigade
 
 Network of volunteers that collaborate with local government to make their communities better.
 
-#### Spotlight: [Open Oakland](http://openoakland.org/)
+#### [Open Oakland](http://openoakland.org/)
 
 Heavy focus on transparent government.
 
@@ -43,7 +43,7 @@ Example Projects
 - Councilmatic
 - Oakland Wiki
 
-#### Spotlight: [Code for Philly](http://codeforphilly.org/)
+#### [Code for Philly](http://codeforphilly.org/)
 
 Lots of interest around transit and climate.
 
@@ -52,6 +52,10 @@ Example Projects
 - Bike Route Tracker (CyclePhilly)
 - Unlock Philly
 - Solar Sunflower
+
+### Peer Network
+
+Government innovators can connect with each other to share resources and good ideas/strategies. Also, provides government with best practices via provided training.
 
 ### Accelerator
 

@@ -1,4 +1,4 @@
-# Design Thinking
+# Design Thinking and Iteration
 
 A way to approach problems in a way that enables clear focus, creativity, and common sense.
 
@@ -41,17 +41,17 @@ A way to approach problems in a way that enables clear focus, creativity, and co
 - Continually check-in / make sure assumption and decisions at beginning are still true
 - Work together / cross discipline
 
-# Examples
-
-## EmployRI
-
-- [Obscure/unknown information](images/employ_ri.png)
-- [Difficult flow for target audience (online digital literacy)](images/employri_jobs.png)
-
-## Healthcare.gov (before it got fixed)
+## Anti-Example: Healthcare.gov (before it got fixed)
 
 - Unclear ownership
 - Too much upfront planning
 - No metrics
 - Poor communication across disciplines
 - Waterfall
+
+# Revision Control
+
+- Tracks changes to documents
+- Stores files in a central place (where everyone can see them)
+- Allows folks to collaboratively edit them (and screen them for large audiences)
+- Keeps a history of how they got to their end state

@@ -1,1 +1,0 @@
-# Open Law Activity
