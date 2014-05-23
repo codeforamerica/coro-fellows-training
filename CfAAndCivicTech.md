@@ -6,7 +6,6 @@
 
 [Venn Diagram from Knight Foundation, page 6](http://www.knightfoundation.org/media/uploads/publication_pdfs/knight-civic-tech.pdf)
 
-
 # What does Code for America (CfA) do?
 
 ## Bring together **local goverments** and **technologists** to make **better cities for everyone**
@@ -27,8 +26,8 @@
 
 - [Honolulu Answers](http://answers.honolulu.gov/)
 - [Discover BPS](http://www.discoverbps.org/)
-- [Street Mix](http://streetmix.net/)
 - [Transit Mix](http://www.transitmix.net/)
+- [Street Mix](http://streetmix.net/)
 
 ### Brigade
 
@@ -56,7 +55,7 @@ Example Projects
 
 ### Peer Network
 
-Government innovators can connect with each other to share resources and best practices.
+Government innovators can connect with each other to share resources and good ideas/strategies. Also, provides government with best practices via provided training.
 
 ### Accelerator
 
